@@ -3,7 +3,7 @@
     <img src="https://github.com/xynzyen/xynzyen/blob/main/image.gif" alt="Logo" width="491" height="300">
   </a></div>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&width=780&height=100&lines=Hello!+I'm+Christian+L.+Igloria+Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&width=780&height=100&lines=Hello!+I'm+Yen+Yen+Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
 
 
 ## Hi there 👋
